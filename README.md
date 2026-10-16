@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Regal Oilfield Equipments Trading LLC — Corporate Website Redesign
 
 Modern, high-performance, and visually captivating redesign of the official corporate website for **Regal Oilfield Equipments Trading LLC** ([https://www.regaloilfield.ae/](https://www.regaloilfield.ae/)).
@@ -129,3 +130,6 @@ Per Phase 6 requirements:
 * The contact form is a verified **frontend-first engineering form**.
 * Submissions validate required technical fields and automatically generate a structured inquiry that the user can immediately transmit via **mailto (email client)** directly to `regal53@regaloilfield.ae` or transmit via **WhatsApp** to `+971-50-7949521`.
 * **To connect a custom backend endpoint**: Simply point the `handleSubmit` method in `src/components/ContactSection.jsx` to your backend API or serverless function (e.g., SendGrid, Resend, or AWS SES).
+=======
+# regal-oilfield-redesign
+>>>>>>> 46a1f62b5cd71dd56805cd8c607eef825c1c46fa
